@@ -1,0 +1,7 @@
+empty_run,1,1000,false
+empty_jump,1,1000,false
+bunny_run,8,70,true
+bunny_jump,3,300,false
+onion_run,4,170,true
+mole_run,1,1000,false
+expl,8,30,false
